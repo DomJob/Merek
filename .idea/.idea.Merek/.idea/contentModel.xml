@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2019.3/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.3/system/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_Merek.217048568.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p=".gitignore" t="Include" />
+      <e p="IMessageHandler.cs" t="Include" />
+      <e p="IService.cs" t="Include" />
+      <e p="Merek.cs" t="Include" />
+      <e p="Merek.csproj" t="IncludeRecursive" />
+      <e p="Merek.sln" t="IncludeFlat" />
+      <e p="Servicerino.cs" t="Include" />
+      <e p="Startup.cs" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="debug" t="Include">
+        <e p="DebugModule.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp3.0" t="Include">
+            <e p="Merek.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="statistics" t="Include">
+        <e p="StatisticsModule.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
